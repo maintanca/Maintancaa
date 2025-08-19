@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-20 00:14:04
+Timestamp: 2025-08-20 00:56:24
 Total Channels: 36
 Successful Scrapes: 32
 Failed Scrapes: 0
@@ -20,22 +20,22 @@ v2rayngvpn: 42 configs
 V2ray_Collector: 36 configs
 spikevpn: 26 configs
 v2ray_free_conf: 21 configs
+v2raych: 20 configs
 v2rayweb: 20 configs
 vmesc: 20 configs
 vmess_ir: 20 configs
 vpnfail_v2ray: 20 configs
 outlinevpn_ru: 19 configs
-v2raych: 19 configs
 vpnplusee_free: 19 configs
 v2rayvpnchannel: 18 configs
 DirectVPN: 17 configs
 NETMelliAnti: 17 configs
 PrivateVPNs: 17 configs
 vistav2ray: 17 configs
-proxy_mtproto_vpns_free: 14 configs
-v2rayfree: 14 configs
-vpns: 14 configs
+proxy_mtproto_vpns_free: 16 configs
+v2rayfree: 16 configs
+vpns: 16 configs
+DailyV2Config: 14 configs
 KINGOFV2RAY: 13 configs
-DailyV2Config: 9 configs
 
 --- Failed Channels ---
